@@ -1,2 +1,5 @@
 # Personal-Projects
-Fun times with arts and craft.
+
+List of app(s):
+
+- Shop: An eCommerce app with Storefront, a cart, an order history. Data is handled using Realm.
