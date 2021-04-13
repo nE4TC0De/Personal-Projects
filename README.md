@@ -1,6 +1,8 @@
 # Personal-Projects
 
-## Preview of each project
+Project(s) created for either learning purposes or fun arts and craft.
+
+## Preview
 
 Projects / Description                                                                                                                                                            | Screenshots
 ---                                                                                                                                                                          |---
